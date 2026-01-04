@@ -11,10 +11,9 @@ This project focuses on analyzing sales performance and customer purchasing beha
 
 The outcomes of this project aim to help businesses make data-driven decisions, improve customer satisfaction, and maximize profitability.
 
-### 🔷 How to Present This as an End-to-End Project
-📌 Project Title “Sales & Customer Performance Analysis Using SQL and Power BI”
+### 🔷 This Project has 6 dataset, 3 dataset come from crm system and other 3 come from erp system. All combain togher and form 3 dataset which are customer, Product and Sales.
 
-📌 Tools Used
+### Tools Used
 
 SQL (Data cleaning, joins, analysis, Profiling, Remediation & Exploratory data analysis (EDA))
 
