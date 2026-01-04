@@ -51,3 +51,8 @@ Sales transactions (orders, invoices, customers).
 Database Stucture as seen below of 3 tables Product, Sales and Customer it showing Relationship of the data.
 ![Relationship](https://github.com/user-attachments/assets/0a931817-1742-4fa0-8f73-0befef1adf2f)
 
+## 🔹 Executive Smmary
+
+![visual](https://github.com/user-attachments/assets/d5ee0faf-01d0-428c-a2c7-1e06f5c39e10)
+
+
