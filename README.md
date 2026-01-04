@@ -1,0 +1,2 @@
+# Sales-Performance-Customer-Behavior-Analysis-for-Revenue-Growth
+This project focuses on analyzing sales performance and customer purchasing behavior to uncover actionable insights that drive revenue growth and optimize product strategy.  Using tools such as  SQL and Power BI, the project explores sales trends, customer segmentation, and product performance to identify opportunities for improvement.
