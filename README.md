@@ -31,6 +31,60 @@ Product Performance
 
 These insights empower stakeholders with key business metrics, enabling data-driven and strategic decision-making.
 
+## 🗄️ Data Warehouse Design
+The data warehouse is designed using a dimensional (star schema) model optimized for analytical workloads.
+
+#### Fact Table
+  FactSales
+  
+  Sales Amount
+  
+  Quantity Sold
+  
+  Order Date
+  
+  Customer Key
+  
+  Product Key
+
+### Dimension Tables
+  #### DimCustomer
+ 
+  DimProduct
+  
+  DimDate
+  
+  DimLocation
+  
+This design ensures high query performance and intuitive reporting.
+
+### 🧪 Data Quality & Transformation
+The following data processing steps are applied:
+
+Removal of duplicate records
+
+Standardization of data types
+
+Handling of missing or invalid values
+
+Enforcement of business rules
+
+Validation of referential integrity
+
+
+### 🛠️ Tools & Technologies
+
+Database	SQL Server [Download here](https://www.microsoft.com/en-us/sql-server)
+
+Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+Data Modeling	Star Schema
+
+Analytics	SQL Queries
+
+Version Control	Git & GitHub
+
+
 
 ### Key objectives include:
 
@@ -44,11 +98,7 @@ The outcomes of this project aim to help businesses make data-driven decisions, 
 
  This Project has 6 dataset, 3 dataset come from crm system and other 3 come from erp system. All combain togher and form 3 dataset which are customer, Product and Sales.
 
-### 🔷 Tools Used
 
-SQL [Download here](https://www.microsoft.com/en-us/sql-server)
-
-Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 📌 Project Flow
 
