@@ -75,15 +75,15 @@ The following data processing steps are applied:
   
 ### 🛠️ Tools & Technologies
 
-Database	SQL Server [Download here](https://www.microsoft.com/en-us/sql-server)
+- Database	SQL Server [Download here](https://www.microsoft.com/en-us/sql-server)
 
-Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+- Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
-Data Modeling	Star Schema
+- Data Modeling	Star Schema
 
-Analytics	SQL Queries
+- Analytics	SQL Queries
 
-Version Control	Git & GitHub
+- Version Control	Git & GitHub
 
 
 ### Key objectives include:
