@@ -34,18 +34,14 @@ These insights empower stakeholders with key business metrics, enabling data-dri
 ## 🗄️ Data Warehouse Design
 The data warehouse is designed using a dimensional (star schema) model optimized for analytical workloads.
 
-#### Fact Table
-  FactSales
+### Fact Table
+  #### FactSales
   
   Sales Amount
   
   Quantity Sold
   
   Order Date
-  
-  Customer Key
-  
-  Product Key
 
 ### Dimension Tables
   #### DimCustomer
@@ -85,7 +81,6 @@ Analytics	SQL Queries
 Version Control	Git & GitHub
 
 
-
 ### Key objectives include:
 
 📊 Evaluating sales trends over time
@@ -99,6 +94,15 @@ The outcomes of this project aim to help businesses make data-driven decisions, 
  This Project has 6 dataset, 3 dataset come from crm system and other 3 come from erp system. All combain togher and form 3 dataset which are customer, Product and Sales.
 
 
+## 🔹  Project Background 
+
+Origin: Microsoft developed AdventureWorks as a sample database for SQL Server. It provides realistic business data for learning.
+
+Fictional Company: Adventure Works Cycles is a multinational bicycle manufacturer that sells products such as road bikes, mountain bikes, and accessories.
+
+Purpose: The database mimics a real company’s operations, including:
+
+Sales transactions (orders, invoices, customers).
 
 📌 Project Flow
 
@@ -117,16 +121,6 @@ Dashboard development and storytelling
 Data Modeling 
 
 Business insights & recommendations
-
-## 🔹  Project Background 
-
-Origin: Microsoft developed AdventureWorks as a sample database for SQL Server. It provides realistic business data for learning.
-
-Fictional Company: Adventure Works Cycles is a multinational bicycle manufacturer that sells products such as road bikes, mountain bikes, and accessories.
-
-Purpose: The database mimics a real company’s operations, including:
-
-Sales transactions (orders, invoices, customers).
 
 ## Data Stucture & Initial Checks
 Database Stucture as seen below of 3 tables Product, Sales and Customer it showing Data Modeling. 
