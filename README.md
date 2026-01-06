@@ -33,7 +33,7 @@ KPI creation
 
 Dashboard development and storytelling
 
-Relationship between three Table
+Data Modeling 
 
 Business insights & recommendations
 
