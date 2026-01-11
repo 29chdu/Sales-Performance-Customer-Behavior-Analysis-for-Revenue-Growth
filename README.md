@@ -128,8 +128,10 @@ Data Modeling
 Business insights & recommendations
 
 ## Data Stucture & Initial Checks
-Database Stucture as seen below of 3 tables Product, Sales and Customer it showing Data Modeling. 
-![Relationship](https://github.com/user-attachments/assets/0a931817-1742-4fa0-8f73-0befef1adf2f)
+Database Stucture it showing Data Modeling . 
+<img width="1247" height="508" alt="image" src="https://github.com/user-attachments/assets/4c80abee-987e-4236-ad5b-fb63166f1a02" />
+
+
 
 ## 🔹 Executive Smmary
 
