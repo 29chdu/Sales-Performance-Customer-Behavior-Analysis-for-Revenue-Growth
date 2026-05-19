@@ -136,7 +136,7 @@ Database Stucture it showing Data Modeling .
 ![visual](https://github.com/user-attachments/assets/d5ee0faf-01d0-428c-a2c7-1e06f5c39e10)
 
 
-**Sales Performance Analysis Insight (2010–2014)**
+## 🔹 Sales Performance Analysis Insight (2010–2014)
 
 The dashboard provides an overview of sales performance by revenue, quantity sold, orders, and customers.
 
@@ -182,7 +182,7 @@ With **28K orders** generated from **18K customers**, this suggests:
 
 **Recommendations**
 
-1. **Investigate the revenue drop after 2013** to identify causes (market changes, stock issues, incomplete data, or operational factors).
+1. **Investigate the revenue drop after 2013** to identify causes (market changes, or operational factors).
 2. **Focus on high-performing products** (Mountain-200 category) to maximize sales.
 3. **Improve sales consistency** by analyzing what contributed to the strong 2013 performance and replicating those strategies.
 4. **Leverage customer data** to improve retention and upselling opportunities.
