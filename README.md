@@ -136,3 +136,57 @@ Database Stucture it showing Data Modeling .
 ![visual](https://github.com/user-attachments/assets/d5ee0faf-01d0-428c-a2c7-1e06f5c39e10)
 
 
+**Sales Performance Analysis Insight (2010–2014)**
+
+The dashboard provides an overview of sales performance by revenue, quantity sold, orders, and customers.
+
+**1. Overall Business Performance**
+
+* **Total Revenue:** **29M**
+* **Total Quantity Sold:** **60K units**
+* **Total Orders:** **28K**
+* **Total Customers:** **18K**
+
+**2. Revenue Trend Analysis**
+The sales trend between **2010–2014** shows significant fluctuations:
+
+* **2010:** Revenue started very low (**0.0M**), indicating that business launch phase a operational performance.
+* **2011:** Revenue increased sharply to **7.1M**, showing strong business growth.
+* **2012:** Revenue slightly declined to **5.8M**, which may indicate reduced sales activity, lower demand, or operational challenges.
+* **2013:** Revenue peaked at **16.3M**, representing the highest-performing year and major growth opportunity.
+* **2014:** Revenue dropped significantly (**0.0M**), which may suggest incomplete data, operational interruption, or a decline requiring further investigation.
+
+**Key Insight:**
+The company experienced its **best performance in 2013**, contributing the highest share of total revenue. However, the inconsistency in yearly performance suggests a need to investigate drivers behind both growth periods and declines.
+
+**3. Product Quantity Performance**
+The top-selling products are primarily from the **Mountain-200 bike category**, with quantities ranging approximately **580–620 units**.
+
+Top-performing products include:
+
+* Mountain-200 Black
+* Mountain-200 Silver
+
+**Business Insight:**
+The **Mountain-200 series** appears to be the strongest-performing product line and may be a key revenue driver. :
+
+* Increase focus on inventory availability for these products.
+* Improve promotions around high-demand models.
+* Analyze customer preferences to understand why these variants outperform others.
+
+**4. Customer and Order Insight**
+With **28K orders** generated from **18K customers**, this suggests:
+
+* Many customers made repeat purchases.
+* Customer retention may be relatively healthy.
+
+**Recommendations**
+
+1. **Investigate the revenue drop after 2013** to identify causes (market changes, stock issues, incomplete data, or operational factors).
+2. **Focus on high-performing products** (Mountain-200 category) to maximize sales.
+3. **Improve sales consistency** by analyzing what contributed to the strong 2013 performance and replicating those strategies.
+4. **Leverage customer data** to improve retention and upselling opportunities.
+
+
+
+
