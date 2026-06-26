@@ -127,14 +127,16 @@ Business insights & recommendations
 
 ## Data Stucture & Initial Checks
 Database Stucture it showing Data Modeling . 
-<img width="933" height="495" alt="image" src="https://github.com/user-attachments/assets/cdf20d24-744a-4285-bdd4-2d7510ff7ec0" />
+<img width="1237" height="513" alt="image" src="https://github.com/user-attachments/assets/316db566-312c-4629-a774-d46d6fee8c4d" />
+
 
 
 
 
 ## 🔹 Executive Smmary
 
-![visual](https://github.com/user-attachments/assets/d5ee0faf-01d0-428c-a2c7-1e06f5c39e10)
+<img width="933" height="495" alt="image" src="https://github.com/user-attachments/assets/3418a7c3-66e7-4e0c-b864-f9bd828bd950" />
+
 
 
 ## 🔹 Sales Performance Analysis Insight (2010–2014)
