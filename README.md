@@ -127,7 +127,8 @@ Business insights & recommendations
 
 ## Data Stucture & Initial Checks
 Database Stucture it showing Data Modeling . 
-<img width="1247" height="508" alt="image" src="https://github.com/user-attachments/assets/4c80abee-987e-4236-ad5b-fb63166f1a02" />
+<img width="933" height="495" alt="image" src="https://github.com/user-attachments/assets/cdf20d24-744a-4285-bdd4-2d7510ff7ec0" />
+
 
 
 
